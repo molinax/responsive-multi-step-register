@@ -41,12 +41,12 @@ const TopicsForm = () => {
       />
       <CheckboxCard
         name="User experience"
-        id="user-experience"
+        id="userExperience"
         label="User experience"
       />
       <CheckboxCard
         name="Graphic Design"
-        id="graphic design"
+        id="graphicDesign"
         label="Graphic Design"
       />
       <Button value="Continue" className="mt-2 self-center" />
